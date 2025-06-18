@@ -1,0 +1,28 @@
+body{
+   background-color: rgb(3, 144, 168);
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   background-image:url(https://img.freepik.com/fotos-gratis/plano-de-fundo-texturizado-de-concreto-vinheta-rosa-pastel_53876-129734.jpg?semt=ais_hybrid&w=740);
+   background-repeat: no-repeat;
+   background-size:100%;
+}
+
+ul {
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   padding: 0;
+   margin: 0;
+   list-style: none;
+}
+
+
+h2{
+   color: rgb(255, 255, 255);
+   display: flex;
+}
+
+form{
+   display:flex;
+   flex-direction: column;
+   gap: 10px;
+}
